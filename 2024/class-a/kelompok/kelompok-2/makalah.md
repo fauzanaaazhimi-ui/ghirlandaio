@@ -14,11 +14,12 @@ sasjahsjahdjs
 
 **3. Tujuan Masalah**
 
-1.
-2.
-3.
+1. Menjelaskan posisi teknologi sebagai mitos.
+2. Menjelaskan substansi teknologi dalam sudut pandang hiperrealitas.
+3. Mengetahui contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudur pandang hiperrealitas.
+4. Mengetahui perbedaan antara teknologi sebagai mitos dan teknologi sebagai alat menggunakan pengalaman internal dan terpersonalisasi.
 
 ## BAB 2 Pembahasan
-**1. Posisi teknologi sebagai mitos**
+**1. Posisi Teknologi Sebagai Mitos**
 
 Materi tya
