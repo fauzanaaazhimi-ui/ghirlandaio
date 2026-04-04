@@ -1,7 +1,7 @@
-## Resume presentasi kelompok 1 "Hubungan Sains dan Agama"
-# Nama: Maryam Nurul Jaatsiyah
-# NIM: 12402051030097
-# Mata Kuliah: Perpustakaan dan Arsip Digital
+# Resume presentasi kelompok 1 "Hubungan Sains dan Agama"
+## Nama: Maryam Nurul Jaatsiyah
+## NIM: 12402051030097
+## Mata Kuliah: Perpustakaan dan Arsip Digital
 
 ## Pendahuluan
 Menurut Harari dalam buku Homo Deus, konflik antara agama dan sains biasanya muncul ketika membahas persoalan yang sama.
