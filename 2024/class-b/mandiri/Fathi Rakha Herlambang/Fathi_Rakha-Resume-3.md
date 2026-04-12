@@ -16,6 +16,20 @@ Namun demikian, transformasi ini juga memunculkan kritik sebagaimana disampaikan
 ## Kesimpulan
 Secara keseluruhan, “hasil kongres di Washington tahun 1970” dapat dipahami sebagai titik peralihan penting dalam hubungan antara negara dan teknologi. Negara tetap berperan sebagai penyedia dasar melalui pendanaan riset, namun mulai memberikan ruang lebih besar kepada sektor swasta untuk mengembangkan dan mengomersialisasikan inovasi. Berdasarkan Troublemakers: Silicon Valley's Coming of Age, The Wealth of Nations, dan Das Kapital, perubahan ini menghasilkan percepatan perkembangan teknologi modern sekaligus menciptakan dominasi pasar dan potensi ketimpangan ekonomi, yang kemudian menjadi fondasi bagi industri teknologi global saat ini.
 
+## refrensi
+
+Troublemakers: Silicon Valley's Coming of Age. New York: Simon & Schuster, 2017.
+
+The Wealth of Nations. London: W. Strahan and T. Cadell, 1776.
+
+Das Kapital. Hamburg: Otto Meissner Verlag, 1867.
+
+John Maynard Keynes. The General Theory of Employment, Interest, and Money. London: Macmillan, 1936.
+
+
+
+
+
 
 
 
