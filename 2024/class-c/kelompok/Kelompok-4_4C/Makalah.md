@@ -297,5 +297,55 @@ Kedua, serangan yang dialami oleh perpustakaan umum St. Louis, Toronto Public Li
 <br>
 
 ### **<p align="center">BAB III</p>**
-### **<P align="center">KESIMPULAN<p>**
+### **<P align="center">PENUTUP<p>**
 <br>
+
+#### **3.1 Kesimpulan**
+<p align="justify">
+&nbsp;&nbsp;&nbsp;Dapat disimpulkan  bahwa perkembangan teknologi digital telah membawa perubahan besar dalam pengelolaan perpustakaan dan arsip. Lima hukum perpustakaan yang awalnya berfokus pada buku fisik telah berevolusi menjadi prinsip yang lebih luas, yaitu berorientasi pada informasi, pengguna, dan ekosistem digital. Di era digital, perpustakaan tidak lagi sekadar tempat penyimpanan, tetapi menjadi pusat akses informasi yang dinamis, fleksibel, dan berbasis teknologi.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;Selain itu, penerapan cyberethic menjadi hal yang sangat penting dalam pengelolaan perpustakaan digital. Nilai-nilai seperti keamanan, privasi, keadilan, dan akuntabilitas harus dijaga agar layanan informasi tetap etis dan dapat dipercaya oleh pengguna. Perpustakaan dituntut untuk menyeimbangkan antara keterbukaan akses informasi dengan perlindungan data pengguna.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;Dalam aspek keamanan, prinsip dasar CIA Triad (Confidentiality, Integrity, Availability) menjadi fondasi utama dalam menjaga data dan sistem perpustakaan digital. Ancaman siber seperti ransomware, malware, phishing, hingga serangan DDoS terbukti nyata dan berdampak besar berdasarkan berbagai kasus yang telah terjadi, bahkan dapat melumpuhkan layanan dan merusak kepercayaan publik.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;Oleh karena itu, perpustakaan dan arsip digital perlu meningkatkan sistem keamanan secara menyeluruh, baik dari sisi teknologi maupun sumber daya manusia. Upaya seperti peningkatan literasi digital, pelatihan SDM, pembaruan sistem, serta penerapan teknologi keamanan menjadi langkah penting untuk meminimalisir risiko. Secara keseluruhan, perpustakaan digital di era modern harus mampu beradaptasi sebagai ekosistem informasi yang aman, inklusif, dan berkelanjutan, dengan tetap berpegang pada prinsip dasar perpustakaan yang telah berkembang sesuai tuntutan zaman.
+</p>
+
+---
+<br>
+
+### **<p align="center">DAFTAR PUSTAKA</p>**
+<br>
+S. R. Ranganathan. (1931). The five laws of library science. Madras: Madras Library Association.
+<br>
+<br>
+Mikuláš Čtvrtník. (2023). Archives and records: Privacy, personality rights, and access. Cham: Springer Nature. https://doi.org/10.1007/978-3-031-18667-7
+<br>
+<br>
+Teteki, A., Muryanto, B., & Adikara, G. (2023). Handbook digital safety. Yogyakarta: Yayasan LKiS.
+<br>
+<br>
+Markus Christen, Gordijn, B., & Loi, M. (Eds.). (2020). The ethics of cybersecurity. Cham: Springer.
+<br>
+<br>
+Safii, M. (2019). Redefining the five laws of library science in the digital age. Advances in Social Science, Education and Humanities Research, 302.
+<br>
+<br>
+Triandari, A. P. (2022). Keamanan informasi di perpustakaan digital. Visi Pustaka, 24(3). https://doi.org/10.37014/visipustaka.v24i3.3175
+<br>
+<br>
+Alireza Noruzi. (2004). Application of Ranganathan's laws to the web. Webology, 1(2). http://www.webology.ir/2004/v1n2/a8.html
+<br>
+<br>
+Azibaev, A. G. U., Madrahimova, G., Mubarakova, D., AbdulJaleel, H., Mullabaeva, N., Mavlyanova, U., & Davlatova, R. (2026). Pemodelan risiko keamanan siber dalam infrastruktur informasi perpustakaan.
+<br>
+<br>
+Rayhan, A. (2024). Cybersecurity in the digital age: Assessing threats and strengthening defenses. CBECL Group.
+<br>
+<br>
+Michael Gorman. (1995). Five new laws of librarianship. Chicago: American Library Association.
+<br>
+<br>
+IBM. (2026). Attack vector. Diakses dari https://www.ibm.com/id-id/think/topics/attack-vector
+<br>
+</p>
