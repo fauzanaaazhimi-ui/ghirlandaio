@@ -6,3 +6,6 @@
 ## Pembahasan
 
 ## Kesimpulan
+
+---
+## Daftar Pustaka
